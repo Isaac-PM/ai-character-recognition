@@ -1,6 +1,9 @@
 # ai-character-recognition
 ## AI character recognition using Python.
 
+
+El archivo de interés es el archivo `first_approach_neural_networks_p1.ipynb`, el cual contiene el código de la red neuronal.
+
 # References:
 
 - Brownlee, J. (2019). How to Avoid Overfitting in Deep Learning Neural Networks - MachineLearningMastery.com. MachineLearningMastery. Retrieved from https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error
